@@ -1,0 +1,9 @@
+body{
+	background:pink;
+	font-family:"display"
+	line-height:1.5;
+    margin:0;
+	width:20px;
+    box-sizing:border-box;
+    width:100%;
+}
